@@ -2,4 +2,4 @@
 
 2. Execute the code in the "UI CODE" section of the Final_code Jupyter Notebook.
 
-3. Refer to the presentation slides in the repository for descriptions of the various parameters used.
+3. Refer to the presentation slides in the repository(Implementation Section) for descriptions of the various parameters used.
