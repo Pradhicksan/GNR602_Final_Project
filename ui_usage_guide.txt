@@ -1,0 +1,5 @@
+1. Make sure your Python environment has the following modules installed: numpy, scipy, sklearn, matplotlib, PIL, os, and tkinter.
+
+2. Execute the code in the "UI CODE" section of the Final_code Jupyter Notebook.
+
+3. Refer to the presentation slides in the repository for descriptions of the various parameters used.
